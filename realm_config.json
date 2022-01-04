@@ -1,7 +1,7 @@
 {
+    "app_id": "application-2-iubhs",
     "config_version": 20210101,
-    "app_id": "tasktracker-ytdhu",
-    "name": "tasktracker",
+    "name": "Application-2",
     "location": "US-VA",
     "deployment_model": "LOCAL"
 }
